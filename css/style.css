@@ -7,7 +7,7 @@
 body{
     text-align: center;
     background-color: rgb(24, 52, 135);
-    background-image: url(/Atv-03-Web1-Comparador_De_Cartas_pages/assets/yu-gi-oh.jpg);
+    background-image: url(../assets/yu-gi-oh.jpg);
     background-repeat: no-repeat;
     background-position-x: right;
     background-position-y: top;
